@@ -1,0 +1,11 @@
+total 76
+drwxrwxr-x 3 my my  4096 Jun 13 06:03 clang
+-rw-rw-r-- 1 my my  2602 Jun 12 16:31 codestyle.py
+-rw-rw-r-- 1 my my   641 Jun  3 20:09 constants.h
+drwxrwxr-x 2 my my  4096 Jun 13 06:04 formatted
+-rw-rw-r-- 1 my my   481 Jun  3 20:09 image.h
+-rw-rw-r-- 1 my my     0 Jun 22 16:17 ls_rst.txt
+-rw-rw-r-- 1 my my  7399 Jun 13 11:36 mip.cpp
+-rwxrwxr-x 1 my my 40224 Jun 22 06:57 p2
+-rw-rw-r-- 1 my my  2882 Jun 13 10:03 p2.zip
+-rw-rw-r-- 1 my my    25 Jun 12 14:45 requirements.txt
